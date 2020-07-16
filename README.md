@@ -84,6 +84,11 @@ python3 generate_drive_token.py
 ```
 ## Deploying
 
+
+Deploy to Heroku
+
+https://dashboard.heroku.com/new?button-url=https://github.com/Suyashjain05/python-mirror-bot
+
 - Start docker daemon (skip if already running):
 ```
 sudo dockerd
